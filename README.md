@@ -7,7 +7,7 @@ First of all I would like to tell you that there are 3 types of voltage regulato
 
 People I have seen find it difficult to understand the SMPS after they learnt the normal voltage regulators but if we see the circuit then we will see that both the circuit is 90 percent same only 3 components are added in an SMPS which is shown in Pic 1.
 
-Lets discuss about the ## NORMAL VOLTAGE REGULATOR Pic 1 fig a.
+Lets discuss about the  NORMAL VOLTAGE REGULATOR Pic 1 fig a.
 
 A voltage regulator has an op-Amp working in the non inverting mode and it has got a resistor divider working as a negative feedback.The input is also in series with a NPN transistor.Now what happens is that the output voltage will try to meet the difference bewtween the inputs of a op-Amp.That is how the voltage is regulated in the circuit.The reference voltage should be applied at the non inverting end of the amplifier.
 
