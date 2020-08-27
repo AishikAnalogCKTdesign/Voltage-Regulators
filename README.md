@@ -19,3 +19,4 @@ LDO
 
 A LDO is just the same as that of a normal voltage regulator but the NPN transistor is replaced by a PNP transistor.Why? The only reason is that ,if we check the output charateristics of a PNP transistor we find that the saturation current is less than that of NPN transistor and hence the saturation voltage and if the saturation voltage is less then the voltage drop will be less and hence at the output we will get a higher voltage as the drop is very small .PIC 2.Other functions are similar to that of the normal regulator.
 
+to be contd....
